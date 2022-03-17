@@ -8,25 +8,20 @@
 //
 
 
-//public var HOSTURL = "http://sdk.live.cunwedu.com.cn"
-//
-//public var SOCKET_URL = "http://sso.live.cunwedu.com.cn/"
-//public var IMAGE_URL  = "http://pic.live.cunwedu.com.cn/"
-//public var HOSTURL="http://sdk.rel.yunduoketang.cn"
-public var HOSTURL="http://sdk.dev.yunduoketang.cn"
-//public var HOSTURL = "https://sdk.yunduoketang.com"
+
+public var HOSTURL="http://sdk.dev.xxxxx.cn"
 
 
-public var SOCKET_URL = "http://nodeyuan.yunduoketang.cn/"
-public var IMAGE_URL  = "http://image.yunduoketang.com/"
+public var SOCKET_URL = ""
+public var IMAGE_URL  = ""
 
 
 public var JPUSH_APPKEY = ""
-public var UMeng_APPKEY = "573702d167e58e4c28003f44"
+public var UMeng_APPKEY = ""
 public var Ali_SCHEME = "newcloud.hunan.alipay"
 public var WX_APPKEY = ""
 public let WX_SCOPE  = "snsapi_userinfo"
-public let WX_STATE  = "596ad2c413568db8440162f491597e4a"
+public let WX_STATE  = ""
 
 // 机构ID
 public let ORG_COMPANY_ID = ""//138259
