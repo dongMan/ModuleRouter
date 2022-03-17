@@ -104,9 +104,14 @@ Pod::Spec.new do |s|
           sss.public_header_files = "SSL/*.h"
           sss.source_files = "SSL/*.{h,m}"
         end
-    
+        
+        ### MGJRouter
+        ss.subspec "MGJRouter" do |sss|
+          sss.public_header_files = "MGJRouter/*.h"
+          sss.source_files = "MGJRouter/*.{h,m}"
+        end
   end
-  s.dependency 'MGJRouter'
+ #  s.dependency 'MGJRouter'
 
  # s.prefix_header_file = 'BaseSDK/MBasis.pch'
 

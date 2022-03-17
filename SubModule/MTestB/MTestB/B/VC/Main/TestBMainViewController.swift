@@ -8,7 +8,7 @@
 
 import UIKit
 import MBasis
-import MGJRouter
+//import MGJRouter
 
 class TestBMainViewController: UIViewController {
 

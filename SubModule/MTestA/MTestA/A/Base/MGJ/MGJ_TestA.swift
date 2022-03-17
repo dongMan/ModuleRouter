@@ -8,7 +8,7 @@
 
 import UIKit
 import MBasis
-import MGJRouter
+//import MGJRouter
 
 open class MGJ_TestA: NSObject {
      open class func initializeMethod(){
